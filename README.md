@@ -1,7 +1,7 @@
 
 [![MasterHead](https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif)](https://rohitrbagal.netlify.app/)
 <h1 align="center">Hi 👋, I'm ROHIT RAVINDRAKUMAR BAGAL</h1>
-<h3 align="center">Passionate IT Student | Full Stack Developer | Salesforce Enthusiast</h3>
+<h3 align="center">🔥👩‍💻🚀 Passionate IT Student | 🌐💻 Full Stack Developer | 🌈🌟 Salesforce Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbagal&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbagal" /> </p>
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://rohitrbagal.netlify.app/](https://rohitrbagal.netlify.app/)
+- 👨‍💻 Checkout my webiste [https://rohitrbagal.netlify.app/](https://rohitrbagal.netlify.app/)
 
 - 📫 How to reach me **rohitbagal010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/190DIvRskF94UOMskAj42oWRbGefC-J5q/view](https://drive.google.com/file/d/190DIvRskF94UOMskAj42oWRbGefC-J5q/view)
+- 📄 Know about my experiences,[View my resume](https://drive.google.com/file/d/190DIvRskF94UOMskAj42oWRbGefC-J5q/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
